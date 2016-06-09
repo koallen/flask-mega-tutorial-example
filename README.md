@@ -6,3 +6,4 @@ I’ve made some changes compared to the tutorial. These changes are listed belo
 
 - Added a `requirements.txt` for installing dependencies
 - Used `flask run` instead of `app.run()` in `run.sh`
+- Used `import flask_wtf` instead of `import flask.ext.wtf` (deprecated) in `forms.py`
